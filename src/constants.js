@@ -1,0 +1,2 @@
+const DB_NAME="GEMINI-CLONE"
+export {DB_NAME}
